@@ -1,7 +1,5 @@
 <?php
 
-use Laracon\basic\WS4;
-
 class WS4Test extends PHPUnit\Framework\TestCase
 {
     public function testGetDays()

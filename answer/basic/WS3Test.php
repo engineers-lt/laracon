@@ -1,7 +1,5 @@
 <?php
 
-use Laracon\basic\WS3;
-
 class WS3Test extends PHPUnit\Framework\TestCase
 {
     public function testFizzBuzz()

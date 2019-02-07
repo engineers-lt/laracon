@@ -1,7 +1,5 @@
 <?php
 
-use Laracon\basic\WS2;
-
 class TaxTest extends PHPUnit\Framework\TestCase
 {
     public function testCalPriIncTax()

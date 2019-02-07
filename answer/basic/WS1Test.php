@@ -1,7 +1,5 @@
 <?php
 
-use Laracon\basic\WS1;
-
 class WS1Test extends PHPUnit\Framework\TestCase
 {
     public function testHelloWorld()
