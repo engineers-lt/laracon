@@ -4,7 +4,7 @@ class TaxTest extends PHPUnit\Framework\TestCase
 {
     public function testCalPriIncTax()
     {
-        $tax = new Laracon\WS2();
+        $tax = new Laracon\basic\WS2();
 
         $this->assertEquals(105, $tax->CalPriIncTax(100, 0.05));
         $this->assertEquals(108, $tax->CalPriIncTax(100, 0.08));

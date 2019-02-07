@@ -1,6 +1,6 @@
 <?php
 
-namespace Laracon;
+namespace Laracon\basic;
 
 class WS1
 {
