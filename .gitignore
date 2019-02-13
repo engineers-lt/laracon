@@ -17,3 +17,8 @@ Homestead.json
 /.vagrant
 
 .idea
+
+tests/authentic/*
+!tests/authentic/.gitkeep
+tests/basic/*
+!tests/basic/.gitkeep
