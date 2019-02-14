@@ -1,12 +1,13 @@
 <?php
 
+use Laracon\basic\WS4;
 use PHPUnit\Framework\TestCase;
 
 class WS4Test extends TestCase
 {
     public function testGetDays()
     {
-        $month = new Laracon\basic\WS4();
+        $month = new WS4();
         $this->assertEquals(31, $month->getDays(1));
         $this->assertEquals(28, $month->getDays(2));
         $this->assertEquals(30, $month->getDays(4));
