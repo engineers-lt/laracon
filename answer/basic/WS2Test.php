@@ -1,6 +1,8 @@
 <?php
 
-class WS2Test extends PHPUnit\Framework\TestCase
+use PHPUnit\Framework\TestCase;
+
+class WS2Test extends TestCase
 {
     public function testCalPriIncTax()
     {

@@ -1,6 +1,8 @@
 <?php
 
-class WS4Test extends PHPUnit\Framework\TestCase
+use PHPUnit\Framework\TestCase;
+
+class WS4Test extends TestCase
 {
     public function testGetDays()
     {

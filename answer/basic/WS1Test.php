@@ -1,6 +1,8 @@
 <?php
 
-class WS1Test extends PHPUnit\Framework\TestCase
+use PHPUnit\Framework\TestCase;
+
+class WS1Test extends TestCase
 {
     public function testHelloWorld()
     {

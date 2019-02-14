@@ -1,6 +1,8 @@
 <?php
 
-class WS3Test extends PHPUnit\Framework\TestCase
+use PHPUnit\Framework\TestCase;
+
+class WS3Test extends TestCase
 {
     public function testFizzBuzz()
     {
