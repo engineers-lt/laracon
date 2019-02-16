@@ -70,6 +70,6 @@ PHPプログラムをこれまでに概ね3ヶ月以上開発した事があり�
 ## 当日のプレゼン資料
 
 下記URLに当日のプレゼン資料を配置してあります。
-内容の確認等、再度ご覧になりたいときに
+内容の確認等、再度ご覧になりたいときに見てください。
 
-SpeakerDeckのURL
+https://speakerdeck.com/engineers_lt/php-test-workshop
