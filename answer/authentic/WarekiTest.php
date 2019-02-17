@@ -27,7 +27,7 @@ class WarekiTest extends TestCase
         '昭和開始境界' => [self::RESULT_MSG => Wareki::SYOWA, self::INPUT => '19261225'],
         '昭和終了境界' => [self::RESULT_MSG => Wareki::SYOWA, self::INPUT => '19890107'],
         '平成開始境界' => [self::RESULT_MSG => Wareki::HEISEI, self::INPUT => '19890108'],
-        '平成終了境界' => [self::RESULT_MSG => Wareki::HEISEI, self::INPUT => '20190420'],
+        '平成終了境界' => [self::RESULT_MSG => Wareki::HEISEI, self::INPUT => '20190430'],
         '新年号開始境界' => [self::RESULT_MSG => Wareki::NEW_GENGO, self::INPUT => '20190501'],
     ];
 
